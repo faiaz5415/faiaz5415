@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...Game developing 
 - 🌱 I’m currently learning ...C language
 - 💞️ I’m looking to collaborate on ...Google
-- 📫 How to reach me ...Via my facebook account "faiaz hasan(dree)
+- 📫 How to reach me ...Via my facebook account "faiaz hasan 
+ fb : https://www.facebook.com/bangvaiya27/
 
 <!---
 faiaz5415/faiaz5415 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
