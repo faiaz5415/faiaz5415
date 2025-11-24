@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Firebase and AI implementation.**
 
-- 👨‍💻 All of my projects are available at [https://protfolio-three-umber.vercel.app/](https://protfolio-three-umber.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://protfolio-three-umber.vercel.app/](https://faiaz-flutter-verse.lovable.app)
 
 - 💬 Ask me about **dart, flutter, API**
 
