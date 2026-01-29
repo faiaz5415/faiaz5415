@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kh Faiaz Hasan</h1>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3573822b-b164-4a7b-ba0f-2eda0cfdfbb5" /><h1 align="center">Hi 👋, I'm Kh Faiaz Hasan</h1>
 <h3 align="center">A passionate flutter mobile application developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiaz5415&label=Profile%20views&color=0e75b6&style=flat" alt="faiaz5415" /> </p>
@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Firebase and AI implementation.**
 
-- 👨‍💻 All of my projects are available at [https://protfolio-three-umber.vercel.app/](https://faiaz-flutter-verse.lovable.app)
+- 👨‍💻 All of my projects are available at [https://www.faiazis.live/](https://www.faiazis.live/)
 
 - 💬 Ask me about **dart, flutter, API**
 
-- 📫 How to reach me **faiazz39@gmail.com**
+- 📫 How to reach me **faiazzhasan@gmail.com**
 
 - ⚡ Fun fact **Life is useless without bugs. 😒**
 
