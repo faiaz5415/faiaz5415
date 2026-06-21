@@ -72,7 +72,6 @@ I build smooth, scalable, and production-ready cross-platform mobile application
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=faiaz5415&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 
 </div>
 
