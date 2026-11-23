@@ -1,10 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 158" role="img" aria-label="Industry portfolio, six client projects, two Play Store releases">
-<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0B1022"/><stop offset="1" stop-color="#192047"/></linearGradient><linearGradient id="t" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#5BDFFF"/><stop offset="1" stop-color="#BFA4FF"/></linearGradient></defs>
-<rect width="1120" height="158" rx="17" fill="url(#b)" stroke="#385078" stroke-width="2"/>
-<path d="M0 154h1120" stroke="url(#t)" stroke-width="4" opacity=".8"/>
-<text x="43" y="42" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="4" fill="#A0B2D3">PROOF OF WORK  /  2026</text>
-<text x="42" y="104" font-family="Arial,Helvetica,sans-serif" font-size="47" font-weight="800" fill="url(#t)">REAL PRODUCTS. REAL RELEASES.</text>
-<rect x="858" y="35" width="225" height="82" rx="14" fill="#192D49" stroke="#4E86A8"/>
-<text x="881" y="70" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="800" fill="#F4F8FF">06 <tspan font-size="15" fill="#A7D3EE">CLIENT APPS</tspan></text>
-<text x="881" y="99" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#7CE8D7">02 PLAY STORE RELEASES</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 190" width="1120" height="190" role="img" aria-labelledby="ttl desc">
+<title id="ttl">Real products, real releases</title>
+<desc id="desc">Six client applications, including two Google Play releases.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1023"/><stop offset="1" stop-color="#192344"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#52DFFF"/><stop offset="1" stop-color="#B9A1FF"/></linearGradient>
+  <pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse"><path d="M35 0H0V35" fill="none" stroke="#789AD7" stroke-opacity=".12"/></pattern>
+</defs>
+<rect x="1" y="1" width="1118" height="188" rx="18" fill="url(#bg)" stroke="#38567F" stroke-width="2"/>
+<rect x="1" y="1" width="1118" height="188" rx="18" fill="url(#grid)"/>
+<path d="M22 186H1098" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+<text x="44" y="47" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="3" fill="#94B6E0">PROOF OF WORK / 2026</text>
+<text x="42" y="106" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="800" letter-spacing="-1.5" fill="url(#accent)">REAL PRODUCTS.</text>
+<text x="42" y="158" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="800" letter-spacing="-1.5" fill="url(#accent)">REAL RELEASES.</text>
+<path d="M760 30V160" stroke="#47638F" stroke-width="1" opacity=".6"/>
+<rect x="794" y="34" width="278" height="122" rx="16" fill="#172B48" stroke="#4379A6"/>
+<text x="814" y="79" font-family="Arial,Helvetica,sans-serif" font-size="35" font-weight="800" fill="#F0F7FF">06</text>
+<text x="872" y="78" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#B7DFF8">CLIENT APPS</text>
+<path d="M814 93H1054" stroke="#4C7094" stroke-width="1"/>
+<text x="814" y="130" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#82EEDB">02 PLAY STORE RELEASES</text>
 </svg>
