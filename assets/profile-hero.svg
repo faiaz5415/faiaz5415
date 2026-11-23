@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 530" width="1280" height="530" role="img" aria-labelledby="title description">
+<title id="title">Kh Faiaz Hasan — Building products, not just projects</title>
+<desc id="description">A cinematic midnight blue portfolio banner with neon cyan and purple accents, an application interface and code illustration.</desc>
+<defs>
+  <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#060914"/><stop offset=".54" stop-color="#0B1021"/><stop offset="1" stop-color="#11182F"/></linearGradient>
+  <radialGradient id="orb"><stop stop-color="#136BDE" stop-opacity=".48"/><stop offset=".54" stop-color="#2943A5" stop-opacity=".18"/><stop offset="1" stop-color="#131934" stop-opacity="0"/></radialGradient>
+  <linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#1ED0FF"/><stop offset=".45" stop-color="#61E5F0"/><stop offset="1" stop-color="#B18AFF"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#18203D"/><stop offset="1" stop-color="#10172C"/></linearGradient>
+  <linearGradient id="p" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#172949"/><stop offset="1" stop-color="#09162A"/></linearGradient>
+  <filter id="sh"><feDropShadow dx="0" dy="16" stdDeviation="19" flood-color="#000" flood-opacity=".6"/></filter>
+  <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#5D77BC" stroke-width=".6" opacity=".13"/></pattern>
+</defs>
+<rect width="1280" height="530" rx="26" fill="url(#b)"/>
+<rect width="1280" height="530" rx="26" fill="url(#g)"/>
+<circle cx="1030" cy="225" r="340" fill="url(#orb)"/>
+<circle cx="1220" cy="40" r="190" fill="#6240DD" opacity=".07"/>
+<path d="M0 529H1280" stroke="#42B5F5" opacity=".4"/>
+<path d="M66 57h46" stroke="url(#a)" stroke-width="4" stroke-linecap="round"/>
+<text x="66" y="95" fill="#91C9EF" font-size="18" font-family="Arial,Helvetica,sans-serif" font-weight="700" letter-spacing="4">PORTFOLIO / MOBILE ENGINEERING</text>
+<text x="60" y="182" fill="#F5F8FF" font-size="69" font-family="Arial,Helvetica,sans-serif" font-weight="900" letter-spacing="-3">KH FAIAZ</text>
+<text x="60" y="262" fill="url(#a)" font-size="85" font-family="Arial,Helvetica,sans-serif" font-weight="900" letter-spacing="-4">HASAN<span fill="#fff">.</span></text>
+<text x="66" y="310" fill="#D5E2F1" font-size="23" font-family="Arial,Helvetica,sans-serif" font-weight="700">Flutter Engineer  •  AI-Integrated Mobile Experiences</text>
+<text x="66" y="348" fill="#8D9AB4" font-size="18" font-family="Arial,Helvetica,sans-serif">Designing and shipping experiences people actually use.</text>
+<g transform="translate(66 380)" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="16">
+ <rect x="0" width="169" height="51" rx="13" fill="#132A3A" stroke="#278CAE"/>
+ <circle cx="22" cy="25" r="6" fill="#44E4F4"/><text x="38" y="32" fill="#CAF4FF">FLUTTER</text>
+ <rect x="183" width="185" height="51" rx="13" fill="#201B3D" stroke="#5F4A9D"/>
+ <circle cx="207" cy="25" r="6" fill="#B58CFF"/><text x="224" y="32" fill="#DFD0FF">AI PRODUCTS</text>
+ <rect x="382" width="201" height="51" rx="13" fill="#112C2F" stroke="#267F74"/>
+ <circle cx="407" cy="25" r="6" fill="#44DEBC"/><text x="424" y="32" fill="#B5FBE7">PLAY STORE</text>
+</g>
+<text x="67" y="492" fill="#6E7EA0" font-size="15" font-family="Arial,Helvetica,sans-serif" letter-spacing="3">BANGLADESH  /  AVAILABLE FOR COLLABORATION</text>
+<g opacity=".35" fill="none" stroke="#2C65B9">
+ <circle cx="1030" cy="229" r="210" /><circle cx="1030" cy="229" r="265" stroke-opacity=".6"/>
+ <path d="M765 229h515M1030 0v530" stroke-dasharray="4 9"/>
+</g>
+<g filter="url(#sh)">
+ <g transform="rotate(-7 927 250)">
+  <rect x="785" y="106" width="266" height="305" rx="20" fill="url(#glass)" stroke="#395F9F" stroke-width="2"/>
+  <rect x="800" y="122" width="235" height="34" rx="10" fill="#0B1328"/>
+  <circle cx="818" cy="139" r="5" fill="#E5688B"/><circle cx="835" cy="139" r="5" fill="#F2B64B"/><circle cx="852" cy="139" r="5" fill="#62DBBF"/>
+  <text x="875" y="143" fill="#7F9DC6" font-size="11" font-family="monospace">flutter_app.dart</text>
+  <g font-family="monospace" font-size="13">
+  <text x="809" y="191" fill="#9BB0CB">01</text><text x="835" y="191" fill="#A78BFA">class</text><text x="878" y="191" fill="#DDE8F8"> BuildSomething</text>
+  <text x="809" y="216" fill="#9BB0CB">02</text><text x="835" y="216" fill="#60D1FF">  extends </text><text x="925" y="216" fill="#DDE8F8">Widget</text>
+  <text x="809" y="241" fill="#9BB0CB">03</text><text x="835" y="241" fill="#68E6BD">    final </text><text x="897" y="241" fill="#DDE8F8">idea;</text>
+  <text x="809" y="266" fill="#9BB0CB">04</text><text x="835" y="266" fill="#60D1FF">    build</text><text x="897" y="266" fill="#DAE6FA">() {</text>
+  <text x="809" y="291" fill="#9BB0CB">05</text><text x="835" y="291" fill="#D5B8FF">      return</text><text x="912" y="291" fill="#AEE8F8"> impact;</text>
+  <text x="809" y="316" fill="#9BB0CB">06</text><text x="835" y="316" fill="#DAE6FA">    }</text>
+  </g>
+  <rect x="807" y="347" width="220" height="46" rx="9" fill="#122B37" stroke="#2A7B8F"/>
+  <circle cx="829" cy="370" r="9" fill="#3FE3CC"/><path d="m824 370 4 4 8-9" stroke="#09392E" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <text x="846" y="376" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="15" fill="#CBFDF2">DEPLOYMENT READY</text>
+ </g>
+ <g transform="rotate(8 1127 245)">
+  <rect x="1030" y="49" width="189" height="384" rx="33" fill="#060C1A" stroke="#66A8ED" stroke-width="2"/>
+  <rect x="1043" y="65" width="162" height="350" rx="23" fill="url(#p)"/>
+  <rect x="1081" y="76" width="84" height="15" rx="8" fill="#050A17"/>
+  <text x="1063" y="129" fill="#F0FAFF" font-size="16" font-family="Arial,Helvetica,sans-serif" font-weight="700">Your next app.</text>
+  <text x="1063" y="148" fill="#8FA9C9" font-size="10" font-family="Arial,Helvetica,sans-serif">AI + PRODUCT ENGINEERING</text>
+  <rect x="1056" y="170" width="136" height="95" rx="16" fill="#18375C" stroke="#4B8FC6"/>
+  <circle cx="1124" cy="212" r="32" fill="#1D5178"/>
+  <path d="m1097 213 18 17 37-39" stroke="#65E8EF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <rect x="1056" y="282" width="63" height="79" rx="11" fill="#1F3358"/>
+  <rect x="1128" y="282" width="64" height="79" rx="11" fill="#163D49"/>
+  <rect x="1068" y="298" width="35" height="7" rx="3.5" fill="#60BFE9"/>
+  <rect x="1068" y="317" width="26" height="7" rx="3.5" fill="#315B98"/>
+  <circle cx="1160" cy="310" r="15" fill="#49D8C4"/>
+  <rect x="1143" y="338" width="37" height="6" rx="3" fill="#4AA1A8"/>
+  <rect x="1092" y="393" width="65" height="5" rx="2.5" fill="#6583A4" opacity=".6"/>
+ </g>
+</g>
+<g transform="translate(906 424) rotate(-4)">
+ <rect width="207" height="59" rx="13" fill="#142541" stroke="#3E91CE"/>
+ <circle cx="24" cy="29" r="9" fill="#4DE2F0"/>
+ <text x="43" y="25" font-family="Arial,Helvetica,sans-serif" fill="#E9F4FF" font-size="14" font-weight="700">2 PUBLISHED APPS</text>
+ <text x="43" y="43" font-family="Arial,Helvetica,sans-serif" fill="#9AB1D2" font-size="11">Google Play • Android</text>
+</g>
+</svg>

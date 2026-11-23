@@ -1,107 +1,170 @@
 <div align="center">
-
-<!-- Animated typing header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6dd5ed&height=220&section=header&text=Kh%20Faiaz%20Hasan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Mobile%20App%20Developer%20%7C%20Bangladesh&descAlignY=58&descSize=18" width="100%"/>
-
-<a href="https://www.faiazis.live/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&height=50&lines=Flutter+%26+Dart+Developer;Building+Cross-Platform+Mobile+Apps;Currently+%40+Softvence" alt="Typing SVG" />
-</a>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=faiaz5415&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="faiaz5415"/>
-  <img src="https://img.shields.io/github/followers/faiaz5415?label=Followers&style=for-the-badge&color=0e75b6" alt="followers"/>
-</p>
-
+  <a href="https://www.faiazis.live/"><img src="./assets/profile-hero.svg" width="100%" alt="Kh Faiaz Hasan — Flutter Engineer and AI-powered mobile app developer"/></a>
+  <br/><br/>
+  <a href="https://www.faiazis.live/"><img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-14253F?style=for-the-badge&logo=googlechrome&logoColor=5CDFFF" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/faiazhasan5/"><img src="https://img.shields.io/badge/LinkedIn-Connect-14253F?style=for-the-badge&logo=linkedin&logoColor=5CDFFF" alt="LinkedIn"/></a>
+  <a href="mailto:faiazzhasan@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-14253F?style=for-the-badge&logo=gmail&logoColor=5CDFFF" alt="Email"/></a>
 </div>
 
+### ◉ ABOUT ME
+
+I'm **Kh Faiaz Hasan** — a Flutter developer building client-focused mobile products with **AI integrations, Firebase, APIs, payments, and clean UI/UX**.
+
+<div align="center">
+  <img src="./assets/industry-banner.svg" width="100%" alt="Six client applications and two Google Play releases"/>
+</div>
+
+### 01 / PUBLISHED ON GOOGLE PLAY
+
+<table>
+<tr>
+<td align="center" valign="top" width="50%">
+<a href="https://play.google.com/store/apps/details?id=com.proppin.app"><img src="https://raw.githubusercontent.com/faiaz5415/faiaz-flutter-verse/main/src/assets/projects/proppin.jpg" width="150" alt="Proppin mobile app screenshot"/></a>
+<h3>🏡 Proppin</h3>
+<strong>Real Estate Management</strong>
+<p>Properties, tenants, and real-estate workflows.</p>
+<a href="https://play.google.com/store/apps/details?id=com.proppin.app"><img src="https://img.shields.io/badge/VIEW_ON-GOOGLE_PLAY-152C46?style=for-the-badge&logo=googleplay&logoColor=69E7DE" alt="Proppin on Google Play"/></a>
+</td>
+<td align="center" valign="top" width="50%">
+<a href="https://play.google.com/store/apps/details?id=com.voyageApp"><img src="https://raw.githubusercontent.com/faiaz5415/faiaz-flutter-verse/main/src/assets/projects/voyage.png" width="150" alt="Voyage AI mobile app screenshot"/></a>
+<h3>🌍 Voyage AI</h3>
+<strong>AI-Powered Travel Companion</strong>
+<p>AI itineraries, live chat, maps, and trip planning.</p>
+<a href="https://play.google.com/store/apps/details?id=com.voyageApp"><img src="https://img.shields.io/badge/VIEW_ON-GOOGLE_PLAY-152C46?style=for-the-badge&logo=googleplay&logoColor=69E7DE" alt="Voyage AI on Google Play"/></a>
+</td>
+</tr>
+</table>
+
+### 02 / INDUSTRY & CLIENT WORK
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/faiaz5415/faiaz-flutter-verse/main/src/assets/projects/ojais.png" width="118" alt="Ojais Food Scanner screenshot"/>
+<p><strong>🥗 Ojais Food Scanner</strong><br/><sub>AI food recognition · Flutter, Dio, RevenueCat</sub></p>
+</td>
+<td width="50%" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/faiaz5415/faiaz-flutter-verse/main/src/assets/projects/stemrn.jpg" width="118" alt="STEMRN nursing education screenshot"/>
+<p><strong>🩺 STEMRN</strong><br/><sub>AI nursing education · Flutter, Firebase, Stripe</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/faiaz5415/faiaz-flutter-verse/main/src/assets/projects/jaysea.png" width="118" alt="Jaysea AI chatbot screenshot"/>
+<p><strong>🤖 Jaysea AI</strong><br/><sub>Personalized chatbot · Flutter, GetX, RxDart</sub></p>
+</td>
+<td width="50%" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/faiaz5415/faiaz-flutter-verse/main/src/assets/projects/kindpack.png" width="118" alt="Kind Pack enterprise application screenshot"/>
+<p><strong>📦 Kind Pack</strong><br/><sub>Enterprise SaaS · Flutter, APIs · In development</sub></p>
+</td>
+</tr>
+</table>
+
+<div align="center"><a href="https://www.faiazis.live/#portfolio"><strong>Explore full client portfolio ↗</strong></a></div>
+
+### 03 / ENGINEERING SPOTLIGHT
+
+**Voyage AI** — Built Flutter interfaces and integrated **streaming AI chat (SSE/Dio)**, **Firebase Auth**, **Google Maps routing**, and **PayPal checkout**.
+
+**[Read the technical case study →](https://www.faiazis.live/projects/voyage-ai)**
+
+### 04 / SELECTED PUBLIC PROJECTS
+
+| Project | Focus |
+| :--- | :--- |
+| [🌱 Bangla Carambola Companion](https://github.com/faiaz5415/bangla-carambola-companion) | AI-assisted agricultural diagnosis · [Live](https://kamrangabondhu.app) |
+| [⚽ Football Live Score](https://github.com/faiaz5415/Football-Live-score-real-time-App-using-firebase) | Flutter + Firebase real-time scores |
+| [📍 Real-Time Map Tracker](https://github.com/faiaz5415/Real-Time-Map-Tracker-APP) | Flutter + Google Maps + GPS |
+| [🛒 NexusCommerce + CRM](https://github.com/faiaz5415/sazim_store_website) | React + Node.js + MongoDB |
+| [🍱 MessMate Pro](https://github.com/faiaz5415/MessMate-Pro) | Meal and expense management · In progress |
+
+<div align="right"><a href="https://github.com/faiaz5415?tab=repositories"><strong>More repositories ↗</strong></a></div>
+
+### 05 / TECH STACK
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,figma,git,github,postman&theme=dark" alt="Flutter, Dart, Firebase, Android Studio, Figma, Git, GitHub, Postman"/>
 <br/>
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,mongodb,mysql,python,linux,vscode&theme=dark" alt="React, JavaScript, Node.js, MongoDB, MySQL, Python, Linux, VS Code"/>
+</div>
 
-## 👨‍💻 About Me
+**Also:** Provider · GetX · BLoC · Dio · REST APIs · Firebase Auth · Google Maps · Stripe · PayPal · CI/CD
 
-**🚀 Flutter Developer @ Softvence**
+### 06 / EDUCATION
 
-I build smooth, scalable, and production-ready cross-platform mobile applications using **Flutter** and **Dart**. I care about clean architecture, performant UI, and real-world problem solving over flashy code.
+**B.Sc. in Computer Science & Engineering** — Daffodil International University (2022–2025)
+
+### 07 / PROFESSIONAL TRAINING & CERTIFICATIONS
+
+- **Mobile App Marketing 2026: ASO, Advertising & Monetization** — Udemy
+- **UI/UX Design Fundamentals** — Ostad
+- **Flutter Development** — ICT Ministry & Bangladesh Computer Council
+- **Flutter App Development (Pro)** — Ostad
+- **Flutter & Dart – The Complete Guide** — Udemy
+- **The Data Science Course: Complete Data Science Bootcamp 2026** — Udemy
+- **Vibe Coding** — Analytics Vidhya
+
+
+### 08 / GITHUB ACTIVITY
 
 <div align="center">
 
-| | |
-|---|---|
-| 💼 **Currently working at** | Softvence |
-| 🔭 **Currently building** | MessMate Pro |
-| 🎯 **Focus** | Clean, scalable Flutter architecture |
-| 📫 **Email** | faiazzhasan@gmail.com |
-| 🌐 **Portfolio** | [faiazis.live](https://www.faiazis.live/) |
-| 💬 **Ask me about** | Dart, Flutter, REST APIs |
-| ⚡ **Fun fact** | Life is useless without bugs 😒 |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/metrics/signal-field-wide-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/metrics/signal-field-wide-light.svg" />
+  <img src="./assets/metrics/signal-field-wide-dark.svg" width="100%" alt="GitHub contributions, repositories, stars, pull requests and activity summary"/>
+</picture>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/metrics/activity-consistency-compact-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/metrics/activity-consistency-compact-light.svg" />
+  <img src="./assets/metrics/activity-consistency-compact-dark.svg" width="100%" alt="GitHub contribution streak and activity consistency"/>
+</picture>
+</td>
+<td width="50%" align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/metrics/language-composition-compact-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/metrics/language-composition-compact-light.svg" />
+  <img src="./assets/metrics/language-composition-compact-dark.svg" width="100%" alt="Most used programming languages and their relative proportions"/>
+</picture>
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faiaz5415&bg_color=0B1123&color=A1B8DA&line=47DDEA&point=AC92F2&area=true&area_color=31518B&hide_border=true&custom_title=Contribution%20Timeline" width="100%" alt="Recent GitHub activity line graph"/>
 
 </div>
 
-<br/>
-
-## 🛠️ Tech Stack
+### 09 / CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faiaz5415/faiaz5415/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faiaz5415/faiaz5415/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/faiaz5415/faiaz5415/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake moving through the GitHub contribution calendar"/>
+</picture>
+
+<sub>Generated from my real GitHub activity · Refreshed by GitHub Actions</sub>
 
 </div>
 
-<br/>
-
-## 📊 GitHub Analytics
+---
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=faiaz5415&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=6dd5ed&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiaz5415&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&text_color=c9d1d9&langs_count=8"/>
+### LET'S BUILD SOMETHING GREAT
 
-<br/>
+**Mobile apps · AI integrations · UI/UX · Product delivery**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faiaz5415&theme=tokyonight&hide_border=true&background=0D1117&ring=0e75b6&fire=6dd5ed&currStreakLabel=6dd5ed"/>
+<a href="mailto:faiazzhasan@gmail.com"><img src="https://img.shields.io/badge/HIRE_%2F_COLLABORATE-EMAIL_ME-1B3853?style=for-the-badge&logo=gmail&logoColor=63E0EB" alt="Email me"/></a>
+<a href="https://www.faiazis.live/"><img src="https://img.shields.io/badge/EXPLORE-PORTFOLIO-1B3853?style=for-the-badge&logo=googlechrome&logoColor=63E0EB" alt="Portfolio"/></a>
 
-<br/>
+<sub>© Kh Faiaz Hasan · Built with care.</sub>
 
-
-</div>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faiaz5415&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6dd5ed&line=0e75b6&point=ffffff"/>
-</div>
-
-<br/>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://twitter.com/faiazhasan5" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://linkedin.com/in/faiazhasan5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://fb.com/faiazz39" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://instagram.com/dreesinsta" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:faiazzhasan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.faiazis.live/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:0e75b6&height=100&section=footer" width="100%"/>
-
-<div align="center">
-  <i>⭐ Thanks for visiting — feel free to explore my work at <a href="https://www.faiazis.live/">faiazis.live</a></i>
 </div>
