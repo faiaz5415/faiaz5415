@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="450" viewBox="0 0 1280 450" role="img" aria-labelledby="title desc">
+<title id="title">Kh Faiaz Hasan — Flutter developer</title>
+<desc id="desc">Editorial midnight hero design with mint typography and abstract mobile app illustration.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#090E19"/><stop offset=".62" stop-color="#0F1725"/><stop offset="1" stop-color="#111C27"/></linearGradient>
+  <linearGradient id="mint" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#BEFFE5"/><stop offset="1" stop-color="#46E9B2"/></linearGradient>
+  <linearGradient id="phone" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#142C30"/><stop offset="1" stop-color="#0B1A26"/></linearGradient>
+  <radialGradient id="glow"><stop offset="0" stop-color="#36D8A2" stop-opacity=".28"/><stop offset="1" stop-color="#36D8A2" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse"><path d="M46 0H0V46" fill="none" stroke="#B0E8D2" stroke-opacity=".075" stroke-width="1"/></pattern>
+  <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%"><feDropShadow dx="0" dy="18" stdDeviation="23" flood-color="#000000" flood-opacity=".45"/></filter>
+</defs>
+<rect width="1280" height="450" rx="24" fill="url(#bg)"/>
+<rect width="1280" height="450" rx="24" fill="url(#grid)"/>
+<circle cx="1056" cy="211" r="280" fill="url(#glow)"/>
+<path d="M0 0H1280V450H0Z" fill="none" stroke="#31524A" stroke-opacity=".6" stroke-width="2"/>
+<path d="M77 83h54" stroke="#76F2C5" stroke-width="4" stroke-linecap="round"/>
+<text x="77" y="119" fill="#7BEDC4" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="5">HELLO, I'M</text>
+<text x="72" y="206" fill="#F0F8F5" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="800" letter-spacing="-3">KH FAIAZ</text>
+<text x="72" y="287" fill="url(#mint)" font-family="Arial, Helvetica, sans-serif" font-size="80" font-weight="800" letter-spacing="-3">HASAN.</text>
+<path d="M78 314H656" stroke="#D6FFF1" stroke-opacity=".17"/>
+<text x="78" y="346" fill="#C5D6D0" font-family="Arial, Helvetica, sans-serif" font-size="22">Flutter Engineer  /  Mobile App Developer</text>
+<g transform="translate(78 375)">
+  <rect width="310" height="36" rx="18" fill="#14352F" stroke="#2D866D" stroke-opacity=".75"/>
+  <circle cx="19" cy="18" r="5" fill="#55EDB6"/>
+  <text x="36" y="24" fill="#ACF5D8" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.4">BASED IN BANGLADESH</text>
+</g>
+<g opacity=".57" fill="none" stroke="#60D7B1" stroke-width="1.2">
+  <circle cx="1031" cy="226" r="183" stroke-opacity=".30"/>
+  <circle cx="1031" cy="226" r="226" stroke-opacity=".16"/>
+  <path d="M807 223H1260M1031 2V446" stroke-opacity=".12" stroke-dasharray="5 10"/>
+</g>
+<g filter="url(#shadow)" transform="rotate(7 1053 225)">
+  <rect x="921" y="46" width="249" height="363" rx="35" fill="#081019" stroke="#6CC5AA" stroke-opacity=".65" stroke-width="2"/>
+  <rect x="937" y="63" width="217" height="330" rx="24" fill="url(#phone)"/>
+  <rect x="1009" y="73" width="73" height="13" rx="7" fill="#061119"/>
+  <circle cx="964" cy="113" r="12" fill="#6BF4C0"/>
+  <path d="M960 112l4 4 7-9" fill="none" stroke="#0A2A21" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="986" y="118" fill="#DFFFF2" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="15">Build something great.</text>
+  <text x="963" y="162" fill="#7D9D94" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.4">YOUR NEXT EXPERIENCE</text>
+  <rect x="960" y="177" width="172" height="98" rx="16" fill="#1E4941" stroke="#73E7BD" stroke-opacity=".30"/>
+  <path d="M980 247l32-22 25 13 31-40 40 22" fill="none" stroke="#6EEDB8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="1068" cy="198" r="7" fill="#C9FFDE"/>
+  <rect x="960" y="293" width="78" height="61" rx="13" fill="#1B3D3C"/>
+  <rect x="1048" y="293" width="84" height="61" rx="13" fill="#1B3D3C"/>
+  <rect x="973" y="308" width="51" height="7" rx="4" fill="#84C5AE"/>
+  <rect x="973" y="322" width="36" height="7" rx="4" fill="#3C8E77"/>
+  <circle cx="1070" cy="317" r="12" fill="#47C69B"/>
+  <path d="M1064 317l5 5 10-11" stroke="#063426" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <rect x="1067" y="336" width="45" height="5" rx="2.5" fill="#5D9A87"/>
+  <rect x="1009" y="374" width="73" height="4" rx="2" fill="#7AAB9C" opacity=".5"/>
+</g>
+<g transform="translate(814 330) rotate(-7)">
+  <rect width="149" height="69" rx="13" fill="#162D2E" stroke="#4CE2AC" stroke-opacity=".65"/>
+  <circle cx="23" cy="24" r="9" fill="#61EEBB"/>
+  <path d="M19 24l3 3 5-6" fill="none" stroke="#123B30" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="40" y="29" fill="#DEFFF3" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="13">Clean UI</text>
+  <rect x="15" y="46" width="117" height="6" rx="3" fill="#315A51"/>
+  <rect x="15" y="46" width="85" height="6" rx="3" fill="#6EF0BD"/>
+</g>
+<text x="1205" y="426" text-anchor="end" fill="#477A6B" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3">DESIGN • BUILD • SHIP</text>
+</svg>
