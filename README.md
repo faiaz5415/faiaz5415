@@ -104,6 +104,56 @@ I'm **Kh Faiaz Hasan** — a Flutter developer building client-focused mobile pr
 - **The Data Science Course: Complete Data Science Bootcamp 2026** — Udemy
 - **Vibe Coding** — Analytics Vidhya
 
+
+### 08 / GITHUB ACTIVITY
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/metrics/signal-field-wide-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/metrics/signal-field-wide-light.svg" />
+  <img src="./assets/metrics/signal-field-wide-dark.svg" width="100%" alt="GitHub contributions, repositories, stars, pull requests and activity summary"/>
+</picture>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/metrics/activity-consistency-compact-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/metrics/activity-consistency-compact-light.svg" />
+  <img src="./assets/metrics/activity-consistency-compact-dark.svg" width="100%" alt="GitHub contribution streak and activity consistency"/>
+</picture>
+</td>
+<td width="50%" align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/metrics/language-composition-compact-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/metrics/language-composition-compact-light.svg" />
+  <img src="./assets/metrics/language-composition-compact-dark.svg" width="100%" alt="Most used programming languages and their relative proportions"/>
+</picture>
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faiaz5415&bg_color=0B1123&color=A1B8DA&line=47DDEA&point=AC92F2&area=true&area_color=31518B&hide_border=true&custom_title=Contribution%20Timeline" width="100%" alt="Recent GitHub activity line graph"/>
+
+</div>
+
+### 09 / CONTRIBUTION SNAKE
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faiaz5415/faiaz5415/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faiaz5415/faiaz5415/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/faiaz5415/faiaz5415/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake moving through the GitHub contribution calendar"/>
+</picture>
+
+<sub>Generated from my real GitHub activity · Refreshed by GitHub Actions</sub>
+
+</div>
+
 ---
 
 <div align="center">
